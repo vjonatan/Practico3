@@ -1,0 +1,15 @@
+{
+  "name": "tp3",
+  "version": "1.0.0",
+  "description": "tp3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "veraJonatan",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1004.0",
+    "nanoid": "^3.1.29"
+  }
+}

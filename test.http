@@ -1,0 +1,16 @@
+POST http://127.0.0.1:3000/envios
+
+{
+  "destino": "san juan",
+  "email": "sanjuan@gmail.com"
+}
+
+###
+GET http://127.0.0.1:3000/envios/pendientes
+
+
+### ingresar id de envio
+PUT http://127.0.0.1:3000/envios/822dq3oIv4Sh9UrSzFeOvS6ilkS06X/entregado
+
+
+###
